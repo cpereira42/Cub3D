@@ -1,0 +1,12 @@
+R 800 800
+NO ./texturas/muro4.xpm
+SO ./texturas/jardim.xpm
+WE ./texturas/muro3.xpm
+EA ./texturas/muro6.xpm
+S ./texturas/lord3.xpm
+F 100,0,100
+C 0,0,0
+
+11111111111111111111111111111
+1222222222222W222222222222111
+11111111111111111111111111111
