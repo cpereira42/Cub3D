@@ -33,6 +33,8 @@ To clean the executable file and the objects, type
 ```
 make fclean
 ```
+For more information about this project, consult the subject.pdf file. <br>
+
 ![Alt text](images/01.png?raw=true "Title")
 ![Alt text](images/02.png?raw=true "Title")
 ![Alt text](images/03.png?raw=true "Title")
